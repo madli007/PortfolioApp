@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PortfolioAppDomain", "PortfolioAppDomain\PortfolioAppDomain.csproj", "{7E2D5B0A-FB95-4473-8B0D-A30D7C102A9C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PortfolioAppDomain", "PortfolioAppDomain\PortfolioAppDomain.csproj", "{7E2D5B0A-FB95-4473-8B0D-A30D7C102A9C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PortfolioAppServices", "PortfolioAppServices\PortfolioAppServices.csproj", "{71D9802E-4765-4A94-AD68-179D5DB23EAD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PortfolioAppServices", "PortfolioAppServices\PortfolioAppServices.csproj", "{71D9802E-4765-4A94-AD68-179D5DB23EAD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PortfolioAppUnitTests", "PortfolioAppUnitTests\PortfolioAppUnitTests.csproj", "{0DF8588F-0340-4A36-BE63-5B74D54488F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PortfolioAppUnitTests", "PortfolioAppUnitTests\PortfolioAppUnitTests.csproj", "{0DF8588F-0340-4A36-BE63-5B74D54488F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PortfolioAppCommon", "PortfolioAppCommon\PortfolioAppCommon.csproj", "{C424BE3D-9BD9-4037-9309-7F140A921C79}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PortfolioAppCommon", "PortfolioAppCommon\PortfolioAppCommon.csproj", "{C424BE3D-9BD9-4037-9309-7F140A921C79}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PortfolioAppUI", "PortfolioAppUI\PortfolioAppUI.csproj", "{7A24A2E7-A32A-4D95-92B5-B328FA0324D6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PortfolioAppUI", "PortfolioAppUI\PortfolioAppUI.csproj", "{E96564E1-5AC2-48E8-A192-DD899A2A711E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,10 +35,10 @@ Global
 		{C424BE3D-9BD9-4037-9309-7F140A921C79}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C424BE3D-9BD9-4037-9309-7F140A921C79}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C424BE3D-9BD9-4037-9309-7F140A921C79}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7A24A2E7-A32A-4D95-92B5-B328FA0324D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7A24A2E7-A32A-4D95-92B5-B328FA0324D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7A24A2E7-A32A-4D95-92B5-B328FA0324D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7A24A2E7-A32A-4D95-92B5-B328FA0324D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E96564E1-5AC2-48E8-A192-DD899A2A711E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E96564E1-5AC2-48E8-A192-DD899A2A711E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E96564E1-5AC2-48E8-A192-DD899A2A711E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E96564E1-5AC2-48E8-A192-DD899A2A711E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
